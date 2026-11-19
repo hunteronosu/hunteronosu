@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Hunter Dubuc
 
-<!--
-**hunteronosu/hunteronosu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Operations and Systems Analyst at BedConnect and a
+Computer Information Systems graduate of Eastern Michigan University,
+based in Southeast Michigan.
 
-Here are some ideas to get you started:
+I build tools that automate repetitive work, improve data accuracy,
+and support everyday business operations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My work
+
+- Python automation for hospital data extraction and validation
+- Excel reporting and ROI calculator generation
+- Website maintenance and application troubleshooting
+- Process documentation and SOC 2 readiness support
+
+## Tools I use
+
+Python · pandas · openpyxl · Playwright · Excel · GitHub ·
+WordPress · Frappe · Jira
+
+## Featured project
+
+### Salt Smart
+A Python application for planning sidewalk salt purchases,
+estimating seasonal inventory, and comparing purchasing options.
+
+[Explore Salt Smart](https://github.com/hunteronosu/salt-smart)
+
+## Currently learning
+
+Strengthening my networking fundamentals and preparing for
+CompTIA Network+.
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/hunter-dubuc-243982235/)
